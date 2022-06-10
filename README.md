@@ -7,7 +7,8 @@ create an attribute for the elements that have a title The created attribute wil
 named data-named="Contents" and the index will be named data-named="Index"; this will dynamically work with you in the future if you going to 
 add any other elements besides the contents and the index and have full control over them through the attribute data-named.
 
-installation
+#installation
+
 1- add script tab
 
 very simple just add a script tag at the end of your html with the code in nav.js
@@ -15,6 +16,9 @@ very simple just add a script tag at the end of your html with the code in nav.j
 2- add the code in your script
 
 at the end of you building script copy and past the code in the nav.js and run it 100% sure will not effect on your code because i'm using the attributs that i created
+
+3- create a js file in your project directory
+copy the code from the nav.js and past it in the file you created. call that file from the html at the bottom of the body tag with script tag
 
 Note ####### Important note
 // under additional listener the last few lines of code which is working with a window listener RESIZE !!! 
