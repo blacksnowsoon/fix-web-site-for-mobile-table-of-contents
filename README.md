@@ -15,7 +15,7 @@ very simple just add a script tag at the end of your html with the code in nav.j
 
 2- add the code in your script
 
-at the end of you building script copy and past the code in the nav.js and run it 100% sure will not effect on your code because i'm using the attributs that i created
+at the end of you building script copy the code from the nav.js and past in a tag script run it 100% sure will not effect on your code because i'm using the attributs that i created
 
 3- create a js file in your project directory
 copy the code from the nav.js and past it in the file you created. call that file from the html at the bottom of the body tag with script tag
